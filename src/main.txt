@@ -1,3 +1,4 @@
 Terraform module to create a responsive Maintenance Page using Cloudflare Worker
 # guard against empty input
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
