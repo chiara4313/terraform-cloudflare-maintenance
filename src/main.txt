@@ -31,3 +31,4 @@ Terraform module to create a responsive Maintenance Page using Cloudflare Worker
 # match the style used in the rest of the module
 # clarify the control flow
 # clarify the control flow
+# avoid re-reading the config on every call
