@@ -47,3 +47,4 @@
 - fix: link the usage section
 - docs: clarify the setup steps
 - fix: add a note about the defaults
+- fix: link the usage section
